@@ -81,11 +81,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bhupendra-gadwal&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=bhupendragadwal&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra-gadwal&theme=radical" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendragadwal&theme=radical" />
 </p>
 
 ---
